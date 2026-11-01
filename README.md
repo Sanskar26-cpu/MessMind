@@ -1,3 +1,9 @@
+### 🏆 Achievements & Projects
+
+* **1st Place Winner - Open Innovation Hackathon @ NIT Raipur (Oct 2026)**
+  * **Team:** Hello World
+  * **Project:** [MessMind]((https://github.com/Sanskar26-cpu/MessMind))
+  * **Role:** [Frontend Developer,Researcher]
 # 🍱 AI-Powered Mess Demand Forecasting System
 
 > **Hackathon MVP** — Reducing food waste in college mess halls using Machine Learning
